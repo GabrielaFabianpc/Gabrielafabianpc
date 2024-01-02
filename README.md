@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Gabriela Fabian! 👋
 
-- 🔭 Hoje trabalho com backend NodeJS!
+- 🔭 Sou desenvolvedora FullStack!
+- 👩🏼‍💻 Trabalho com Angular e NodeJs!
 - :closed_book: Estudante de Engenharia de Software!
 <div>
 <div align="center">
